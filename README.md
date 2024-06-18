@@ -14,7 +14,15 @@
 
 <br>
 
-- A passionate Backend Developer
+Hello! I'm a passionate backend developer with a deep interest in creating robust and scalable systems. I thrive on solving complex problems and continuously improving my skills. Here are some of the areas that excite me the most in backend development:
+
+Software Architecture: Designing scalable, modular, and maintainable systems.
+APIs: Crafting efficient and robust RESTful APIs to connect services and applications.
+Authentication & Authorization: Implementing secure systems using JWT, OAuth2, and other methods.
+Databases: Working with SQL and NoSQL databases, optimizing queries, and designing schemas.
+Microservices: Developing and deploying microservices for distributed applications.
+Performance Tuning: Optimizing application and database performance to handle high loads.
+
 
 <br><br>
 
