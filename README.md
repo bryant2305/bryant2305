@@ -53,7 +53,7 @@
 - **Extras**:
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![UBUNTU](https://img.shields.io/badge/UBUNTU-white?style=flat&logo=ubuntu&logoColor=orange) 
+  ![UBUNTU](https://img.shields.io/badge/UBUNTU-white?style=flat&logo=ubuntu&logoColor=orange&logoWidth=20)
 
 
 </p>
