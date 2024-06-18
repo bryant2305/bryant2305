@@ -14,7 +14,7 @@
 
 <br>
 
-Hello! I'm a passionate backend developer with a deep interest in creating robust and scalable systems. I thrive on solving complex problems and continuously improving my skills. Here are some of the areas that excite me the most in backend development:
+Hello! I'm a passionate backend developer , I thrive on solving complex problems and continuously improving my skills. Here are some of the areas that excite me the most in backend development:
 
 Software Architecture: Designing scalable, modular, and maintainable systems.
 
