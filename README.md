@@ -29,7 +29,7 @@
     
     ![LARAVEL](https://img.shields.io/badge/LARAVEL-red?style=flat&logo=laravel&logoColor=white)
     ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=TYPESCRIPT&logoColor=white)
-    ![NestJs](https://img.shields.io/badge/nestjs-blue?style=flat&logo=NestJs&logoColor=white)
+    ![NestJs](https://img.shields.io/badge/NestJs-blue?style=flat&logo=nestjs&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=.NET&logoColor=white)
 
 <br>   
