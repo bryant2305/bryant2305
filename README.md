@@ -35,7 +35,7 @@
     
 - **Backend Development**:
 
-   ![LARAVEL](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=LARAVEL&logoColor=white)
+   ![LARAVEL]([https://img.shields.io/badge/HTML5%20-%23E34F26](https://imgs.search.brave.com/I710E622F25nagl12g82pQlqtswQfsj9z5JraUDWVeg/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdHls/ZXMucmVkZGl0bWVk/aWEuY29tL3Q1XzJ1/YWt0L3N0eWxlcy9j/b21tdW5pdHlJY29u/X2ZtdHRhczJ4aXkz/NTEucG5n).svg?style=for-the-badge&logo=LARAVEL&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![TypeScript](https://img.shields.io/badge/TypeScript%20-%23F7DF1E.svg?style=for-the-badge&logo=typescript&logoColor=blue)
 
