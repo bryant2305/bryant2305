@@ -44,6 +44,7 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=TYPESCRIPT&logoColor=white)
     ![NestJs](https://img.shields.io/badge/NestJs-blue?style=flat&logo=nestjs&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=.NET&logoColor=white)
+    ![SQL](https://img.shields.io/badge/SQL-blue?style=flat&logo=sql&logoColor=white)
     ![Mysql](https://img.shields.io/badge/Mysql-blue?style=flat&logo=Mysql&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
 
