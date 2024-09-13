@@ -49,7 +49,8 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb&logoColor=white)
     ![FIREBASE](https://img.shields.io/badge/FIREBASE-red?style=flat&logo=firebase&logoColor=white)
     ![REDIS](https://img.shields.io/badge/REDIS-white?style=flat&logo=redis&logoColor=red)
-    [https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png](https://img.shields.io/badge/MICROSERVICES-blue)
+    ![Static Badge](https://img.shields.io/badge/MICROSERVICES-BLUE)
+
   
 
 <br>   
