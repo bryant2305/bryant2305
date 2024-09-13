@@ -50,6 +50,8 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![FIREBASE](https://img.shields.io/badge/FIREBASE-red?style=flat&logo=firebase&logoColor=white)
     ![REDIS](https://img.shields.io/badge/REDIS-white?style=flat&logo=redis&logoColor=red)
     ![Static Badge](https://img.shields.io/badge/MICROSERVICES-BLUE)
+    ![Static Badge](https://img.shields.io/badge/MEMCACHED-yellow?logo=microservices)
+
 
   
 
