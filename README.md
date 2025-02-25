@@ -42,6 +42,7 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     
     ![LARAVEL](https://img.shields.io/badge/LARAVEL-red?style=flat&logo=laravel&logoColor=white)
     ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=TYPESCRIPT&logoColor=white)
+    ![Static Badge](https://img.shields.io/badge/NODEJS-green?style=flat&logo=javascript&logoColor=white)
     ![NESTJS](https://img.shields.io/badge/NESTJS-blue?style=flat&logo=nestjs&logoColor=white)
     ![.NET](https://img.shields.io/badge/.NET-purple?style=flat&logo=.NET&logoColor=white)
     ![SQL SERVER](https://img.shields.io/badge/SQL%20SERVER-blue?style=flat&logo=microsoftsqlserver)
@@ -51,7 +52,7 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![REDIS](https://img.shields.io/badge/REDIS-white?style=flat&logo=redis&logoColor=red)
     ![Static Badge](https://img.shields.io/badge/MICROSERVICES-BLUE)
     ![Static Badge](https://img.shields.io/badge/MEMCACHED-yellow?logo=microservices)
-    ![Static Badge](https://img.shields.io/badge/NodeJS-green?style=flat&logo=javascript&logoColor=white)
+    
 
 
 
