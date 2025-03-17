@@ -52,6 +52,7 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![REDIS](https://img.shields.io/badge/REDIS-white?style=flat&logo=redis&logoColor=red)
     ![Static Badge](https://img.shields.io/badge/MICROSERVICES-BLUE)
     ![Static Badge](https://img.shields.io/badge/MEMCACHED-yellow?logo=microservices)
+    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
     
 
 
