@@ -53,6 +53,7 @@ Software Architecture: Designing scalable, modular, and maintainable systems.
     ![Static Badge](https://img.shields.io/badge/MICROSERVICES-BLUE)
     ![Static Badge](https://img.shields.io/badge/MEMCACHED-yellow?logo=microservices)
     ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+    ![PYTHON](https://img.shields.io/badge/PYTHON-blue?style=flat&logo=python&logoColor=white)
     
 
 
