@@ -1,14 +1,14 @@
 <h1 align="center"><b>Hi, I'm Bryant</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Certified+Solutions+Architect;Cloud+Engineer+%7C+DevOps+%7C+SRE;Serverless+%7C+Kubernetes+%7C+Terraform;Building+scalable+systems+on+AWS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF9900&center=true&vCenter=true&width=600&lines=AWS+Certified+Solutions+Architect;Cloud+Engineer+%7C+Backend+Engineer;DevOps+%7C+SRE;Serverless+%7C+Kubernetes+%7C+Terraform;Building+scalable+systems+on+AWS" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **AWS Certified Solutions Architect** and Cloud Engineer with 3+ years building scalable, high-availability systems on AWS. I specialize in serverless architectures, microservices, Infrastructure as Code, and AI-powered automation.
+I'm an **AWS Certified Solutions Architect**, Cloud Engineer, and Backend Engineer with 3+ years building scalable, high-availability systems on AWS. I specialize in serverless architectures, microservices, RESTful APIs, Infrastructure as Code, and AI-powered automation.
 
 Currently working remotely for a California-based company, designing cloud-native solutions and internal automation pipelines. Previously built backend and cloud services for a Dominican Government platform with **500K+ downloads**.
 
@@ -111,15 +111,6 @@ Things I care about most:
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/Terminal-%23054020?style=flat&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37?style=flat&logo=postman&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bryant2305&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FF9900&icon_color=FF9900"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryant2305&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF9900"/>
 </p>
 
 ---
