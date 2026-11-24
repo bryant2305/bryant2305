@@ -118,9 +118,6 @@ Things I care about most:
 ## 📬 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/bryant-perez-garcia-6b5913252" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:bryantperezgarcia005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
