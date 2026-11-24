@@ -10,7 +10,7 @@
 
 I'm an **AWS Certified Solutions Architect**, Cloud/DevOps Engineer, and Backend Engineer with 4 years building scalable, high-availability systems. I specialize in serverless architectures, microservices, RESTful APIs, Infrastructure as Code, and AI-powered automation.
 
-Currently working remotely for a California-based company, designing cloud-native solutions and internal automation pipelines. Previously built backend and cloud services for a Dominican Government platform with **500K+ downloads**.
+Currently working on designing cloud-native solutions and internal automation pipelines. Previously built backend and cloud services for a Dominican Government platform with **500K+ downloads**.
 
 Things I care about most:
 
